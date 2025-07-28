@@ -54,8 +54,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 🌐 [Portfolio Website](https://your-portfolio.com) *(Add once ready!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/anjali-mishra-41418824b/)
+- 🌐 [Portfolio Website](https://anjali2128.github.io/Portfolio/)
 - 📧 Email: `your.email@example.com`
 
 ---
