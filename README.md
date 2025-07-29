@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student+at+VIT;Frontend+Developer+%7C+React+Enthusiast;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Loves+building+projects+with+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=445&lines=Final+Year+CS+Student+at+VIT;Frontend+Developer+%7C+React+Enthusiast;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Loves+building+projects+with+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,6 +50,11 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjali2128&theme=gruvbox&row=1&column=6" />
 </p>
 
 ---
