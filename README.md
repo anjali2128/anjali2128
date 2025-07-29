@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student+at+VIT;Frontend+Developer+%7C+React+Enthusiast;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Loves+building+projects+with+impact" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
 <h3 align="center">Front-End Developer | Deep Learning Enthusiast | Data Analyst</h3>
 
@@ -32,6 +35,9 @@
 `Web Dev` `Data Visualization` `Machine Learning` `Predictive Analytics` `UI/UX` `Image Processing`
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anjali2128&theme=gruvbox&row=1&column=6" />
+</p>
 
 
 ### 🔧 Tech Stack
