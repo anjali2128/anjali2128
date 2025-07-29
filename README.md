@@ -35,10 +35,6 @@
 `Web Dev` `Data Visualization` `Machine Learning` `Predictive Analytics` `UI/UX` `Image Processing`
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjali2128&theme=gruvbox&row=1&column=6" />
-</p>
-
 
 ### 🔧 Tech Stack
 
@@ -53,6 +49,9 @@
 </p>
 
 ---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anjali2128&theme=gruvbox&row=1&column=6" />
 </p>
@@ -67,8 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali2128&layout=compact&theme=gruvbox" height="180" />
 </p>
 
-
----
 
 ### 🚀 Featured Projects
 
