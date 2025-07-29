@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student+at+VIT;Frontend+Developer+%7C+React+Enthusiast;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Loves+building+projects+with+impact" alt="Typing SVG" />
 </p>
-<h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
-<h3 align="center">Front-End Developer | Deep Learning Enthusiast | Data Analyst</h3>
 
 <p align="center">
   <a href="https://github.com/anjali2128"><img src="https://komarev.com/ghpvc/?username=anjali2128&label=Profile%20views&color=0e75b6&style=flat" alt="anjali2128" /></a>
