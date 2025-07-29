@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Final+Year+CS+Student+at+VIT;Frontend+Developer+%7C+React+Enthusiast;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Aspiring+Data+Analyst+%7C+Visualization+Nerd;Loves+building+projects+with+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=CS+Graduate+from+VIT+Vellore+%F0%9F%8E%93;Frontend+Developer+%7C+React+%26+UI+Specialist;Data+Analyst+%7C+Power+BI+%7C+Tableau+%7C+SQL;AI+%26+Deep+Learning+Explorer+%F0%9F%A7%A0;Problem+Solver+%7C+Creative+Thinker+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/anjali2128"><img src="https://komarev.com/ghpvc/?username=anjali2128&label=Profile%20views&color=0e75b6&style=flat" alt="anjali2128" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/anjali-mishra-41418824b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:anjali.mishra3537@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://anjali2128.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+
 
 ---
 
