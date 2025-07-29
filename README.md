@@ -1,20 +1,38 @@
 <h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
-<h3 align="center">Passionate Developer | React Enthusiast | Data Science Explorer</h3>
+<h3 align="center">Front-End Developer | Deep Learning Enthusiast | Data Analyst</h3>
 
 <p align="center">
-  <a href="https://github.com/anjalimishra123"><img src="https://komarev.com/ghpvc/?username=anjalimishra123&label=Profile%20views&color=0e75b6&style=flat" alt="anjalimishra123" /></a>
+  <a href="https://github.com/anjali2128"><img src="https://komarev.com/ghpvc/?username=anjali2128&label=Profile%20views&color=0e75b6&style=flat" alt="anjali2128" /></a>
 </p>
 
 ---
 
-### 🌟 About Me
+### 💼 About Me
 
-- 💻 I build responsive, modern web apps using **React + Bootstrap**
-- 🧠 I explore **deep learning**, especially in the **healthcare domain**
-- 🎓 Always learning and experimenting with **AI, ML, and Web Dev**
-- 🌐 Creator of [Karnataka Tourism Website](https://github.com/anjalimishra123/Karnataka-tourism)
+- 🎓 Final-year B.Tech CSE student at **VIT Vellore**
+- 🌐 Frontend Web Developer (React, Bootstrap, HTML5, CSS3, JS)
+- 🧠 Deep learning enthusiast (built a CNN model for **Brain Tumor Detection** with 98.5% accuracy)
+- 📊 Experienced in data analytics, visualization, and dashboarding (Excel, Power BI, Tableau, SQL, Python)
+- ✍️ Passionate about building real-world web applications and AI solutions
 
 ---
+
+### 🛠️ Skills & Tools
+
+**Languages**:  
+`Python` `JavaScript` `HTML5` `CSS3` `SQL`
+
+**Libraries & Frameworks**:  
+`React.js` `Bootstrap` `CNN` `Pandas` `NumPy` `Matplotlib` `Jupyter`
+
+**Tools**:  
+`VS Code` `GitHub` `Power BI` `Tableau` `Figma` `Excel` `WordPress`
+
+**Concepts**:  
+`Web Dev` `Data Visualization` `Machine Learning` `Predictive Analytics` `UI/UX` `Image Processing`
+
+---
+
 
 ### 🔧 Tech Stack
 
@@ -33,23 +51,54 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalimishra123&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishra123&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anjali2128&show_icons=true&theme=gruvbox" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali2128&layout=compact&theme=gruvbox" height="180"/>
 </p>
-
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎯 Brain Tumor Detection (98.5% Accuracy)](https://github.com/anjalimishra123/brain-tumor-detection-cnn) | Deep learning CNN model to detect brain tumors from MRI images | Python, CNN, Jupyter |
-| [🌦️ Weather Forecasting](https://github.com/anjalimishra123/weather-forecasting) | Forecasts weather using ML models and historical data | Python, Pandas, Sklearn |
-| [🏞️ Karnataka Tourism Website](https://github.com/anjalimishra123/Karnataka-tourism) | A responsive tourism website with cultural highlights & destinations | HTML, CSS, JS, Bootstrap |
-| [📝 TaskNest - To-do App](https://github.com/anjalimishra123/To-do-list) | Responsive React to-do app with login & mocha-beige UI | React, Bootstrap |
-| [💰 Expense Tracker](https://github.com/anjalimishra123/Expense) | Track your monthly spending in style | JavaScript, HTML/CSS |
-| [🎬 Movie Recommender](https://github.com/anjalimishra123/Movie-Recommender) | Recommend similar movies using NLP & cosine similarity | Python, Pandas, TF-IDF |
+| [🎯 Brain Tumor Detection (98.5% Accuracy)](https://github.com/anjali2128/brain-tumor-detection-cnn) | Deep learning CNN model to detect brain tumors from MRI images | Python, CNN, Jupyter |
+| [🌦️ Weather Forecasting](https://github.com/anjali2128/weather-forecasting) | Forecasts weather using ML models and historical data | Python, Pandas, Sklearn |
+| [🏞️ Karnataka Tourism Website](https://github.com/anjali2128/Karnataka-tourism) | A responsive tourism website with cultural highlights & destinations | HTML, CSS, JS, Bootstrap |
+| [📝 TaskNest - To-do App](https://github.com/anjali2128/To-do-list) | Responsive React to-do app with login & mocha-beige UI | React, Bootstrap |
+| [💰 Expense Tracker](https://github.com/anjali2128/Expense) | Track your monthly spending in style | JavaScript, HTML/CSS |
+| [🎬 Movie Recommender](https://github.com/anjali2128/Movie-Recommender) | Recommend similar movies using NLP & cosine similarity | Python, Pandas, TF-IDF |
 
+---
+### 👩‍💻 Internships
+
+**Sparrow Softech Pvt. Ltd.** — *Frontend Intern*  
+📍 May 2025 - Present  
+- Built reusable React UI components and improved cross-browser consistency by 40%  
+- Integrated REST APIs, fixed frontend-backend bugs, and reduced load failures by 25%
+
+**National Informatics Centre (NIC)** — *Web Development Intern*  
+📍 Sept - Oct 2023  
+- Refined onboarding workflows, resolved 50+ support cases, and improved user satisfaction by 20%
+
+---
+
+### 🎓 Education
+
+**Vellore Institute of Technology (VIT), Vellore**  
+B.Tech in CSE | CGPA: 7.68 | 2021 - 2025  
+*Key Courses: Machine Learning, SQL, Data Science, DBMS*
+
+**DPS Nagpur**  
+Class XII – 89% (2021)
+
+---
+
+### 🏆 Certifications
+
+- Data Science – Internshala  
+- GenAI & Analytics Simulations – Forage (Tata, Accenture)  
+- Web Dev – InternElite  
+- Financial Modeling – Internshala
+ 
 ---
 
 ### 📫 Let's Connect
