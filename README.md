@@ -114,9 +114,9 @@ Class XII – 89% (2021)
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anjali-mishra-41418824b/)
-- 🌐 [Portfolio](https://anjali2128.github.io/Portfolio/)
-- 📧 Email: `anjali.mishra3537@gmail.com`
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-mishra-41418824b/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:anjali.mishra3537@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=vercel&logoColor=white)](https://anjali2128.github.io/Portfolio/)
 
 ---
 
