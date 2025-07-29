@@ -85,7 +85,39 @@
 | [💰 Expense Tracker](https://github.com/anjali2128/Expense) | Track your monthly spending in style | JavaScript, HTML/CSS |
 | [🎬 Movie Recommender](https://github.com/anjali2128/Movie-Recommender) | Recommend similar movies using NLP & cosine similarity | Python, Pandas, TF-IDF |
 
+---
+### 👩‍💻 Internships
 
+**Sparrow Softech Pvt. Ltd.** — *Frontend Intern*  
+📍 May 2025 - Present  
+- Built reusable React UI components and improved cross-browser consistency by 40%  
+- Integrated REST APIs, fixed frontend-backend bugs, and reduced load failures by 25%
+
+**National Informatics Centre (NIC)** — *Web Development Intern*  
+📍 Sept - Oct 2023  
+- Refined onboarding workflows, resolved 50+ support cases, and improved user satisfaction by 20%
+
+---
+
+### 🎓 Education
+
+**Vellore Institute of Technology (VIT), Vellore**  
+B.Tech in CSE | CGPA: 7.68 | 2021 - 2025  
+*Key Courses: Machine Learning, SQL, Data Science, DBMS*
+
+**DPS Nagpur**  
+Class XII – 89% (2021)
+
+---
+
+### 🏆 Certifications
+
+- Data Science – Internshala  
+- GenAI & Analytics Simulations – Forage (Tata, Accenture)  
+- Web Dev – InternElite  
+- Financial Modeling – Internshala
+ 
+---
 
 ### 📫 Let's Connect
 
