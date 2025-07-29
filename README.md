@@ -52,6 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjali2128&show_icons=true&theme=gruvbox" height="180"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali2128&layout=compact&theme=gruvbox" height="180"/>
 </p>
 ---
